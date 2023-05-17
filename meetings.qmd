@@ -2,15 +2,15 @@
 title: "Conferences and Meetings"
 ---
 
-## Upcoming Conferences and Meetings
+## Upcoming Conference
 
 - 6th ISNPS Conference Braga, Portugal, June 25-29 2024 (details/link TBA)
 
-## Past Conferences and Meetings^[Held under the auspices of *International Symposia of Nonparametric Statistics*]
+## Most Recent Conference
 
 - 5th ISNPS Conference Paphos, Cyprus, June 20-24 2022 <a href="https://cyprusconferences.org/isnps2022">Link</a>
 
-## Prior Conferences and Meetings^[These conferences and meetings were held under the auspices of *International Society for Nonparametric Statistics*]
+## Prior Conferences and Meetings^[Held under the auspices of *International Society for Nonparametric Statistics*]
 
 - 4th ISNPS Conference Salerno, Italy, June 11-15 2018 <a href="https://web.unisa.it/unisa-rescue-page/dettaglio/id/202/module/87/row/2255">Link</a>
 
@@ -22,4 +22,4 @@ title: "Conferences and Meetings"
 
 - 1st ISNPS Conference Chalkidiki, Greece, June 15-19 2012 <a href="https://isnpstat.org/firstISNPS">Link</a>
 
-- 0th ISNPS Conference Crete, Greece, July 15-19 2002 (*International Conference on Current Advances and Trends in Nonparametric Statistics*)
+- 0th ISNPS Conference Crete, Greece, July 15-19 2002^[Held under the auspices of *International Conference on Current Advances and Trends in Nonparametric Statistics*]
