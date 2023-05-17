@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - meetings.qmd
       - posts.qmd
 
 format:

@@ -1,7 +1,21 @@
 ---
-title: "Meetings"
+title: "Conferences and Meetings"
 ---
 
-## Past Meetings
+## Upcoming Meetings
 
-- <a href="https://cyprusconferences.org/isnps2022">Cyprus 2022</a>
+- 6th ISNPS Conferrence Braga, Portugal, g2024 (details TBA)
+
+## Past Conference and Meetings
+
+- 5th ISNPS Conference Paphos, Cyprus, 2022 <a href="https://cyprusconferences.org/isnps2022">Link</a>
+
+- 4th ISNPS Conference Salerno, Italy, 2018 <a href="https://cyprusconferences.org/isnps2022/past-isnps-conferences">Link</a>
+
+- 3rd ISNPS Conference Avignon, France, 2016 <a href="https://cyprusconferences.org/isnps2022/past-isnps-conferences">Link</a>
+
+- ISNPS Meeting 2015 Graz, Austria, 2015 <a href="https://cyprusconferences.org/isnps2022/past-isnps-conferences">Link</a>
+
+- 2nd ISNPS Conference Cadiz, Spain, 2014 <a href="https://imstat.org/meetings-calendar/2nd-conference-of-the-international-society-for-non-parametric-statistics-ii-isnps">Link</a>
+
+- 1st ISNPS Conference Chalkidiki, Greece, 2012 <a href="https://cyprusconferences.org/isnps2022/past-isnps-conferences">Link</a>
