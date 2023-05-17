@@ -4,7 +4,7 @@ title: "Conferences and Meetings"
 
 ## Upcoming Meetings
 
-- 6th ISNPS Conferrence Braga, Portugal, g2024 (details TBA)
+- 6th ISNPS Conferrence Braga, Portugal, 2024 (details/link TBA)
 
 ## Past Conference and Meetings
 
@@ -19,3 +19,5 @@ title: "Conferences and Meetings"
 - 2nd ISNPS Conference Cadiz, Spain, 2014 <a href="https://imstat.org/meetings-calendar/2nd-conference-of-the-international-society-for-non-parametric-statistics-ii-isnps">Link</a>
 
 - 1st ISNPS Conference Chalkidiki, Greece, 2012 <a href="https://cyprusconferences.org/isnps2022/past-isnps-conferences">Link</a>
+
+- 0th ISNPS Conference Crete, Greece, 2002 (*International Conference on Current Advances and Trends in Nonparametric Statistics*)
