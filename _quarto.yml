@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "International Symposia on Nonparametric Statistics (ISNPS)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - posts.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    smooth-scroll: true
