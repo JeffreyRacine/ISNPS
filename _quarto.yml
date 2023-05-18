@@ -3,15 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "International Symposia on Nonparametric Statistics (ISNPS)"
-  navbar:
-    search: true  
-    left:
-      - href: index.qmd
-        text: Home
-      - meetings.qmd
-      - posts.qmd
-      - people.qmd      
+#  title: "International Symposia on Nonparametric Statistics (ISNPS)"
+#  navbar:
+#    search: true  
+#    left:
+#      - href: index.qmd
+#        text: Home
+#      - meetings.qmd
+#      - posts.qmd
+#      - people.qmd     
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Home"
+        contents:
+          - index.qmd
+      - section: "Subjects"
+        contents:
+          - meetings.qmd
+          - people.qmd   
+      - section: "News"
+        contents:
+          - posts.qmd
 
 format:
   html:
