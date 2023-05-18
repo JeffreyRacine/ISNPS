@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details/link TBA)"
+  },
+  {
+    "objectID": "conferences.html#upcoming-conference",
+    "href": "conferences.html#upcoming-conference",
+    "title": "Conferences",
+    "section": "",
+    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details/link TBA)"
+  },
+  {
+    "objectID": "conferences.html#most-recent-conference",
+    "href": "conferences.html#most-recent-conference",
+    "title": "Conferences",
+    "section": "Most Recent Conference1",
+    "text": "Most Recent Conference1\n\n5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 Link"
+  },
+  {
+    "objectID": "conferences.html#prior-conferences",
+    "href": "conferences.html#prior-conferences",
+    "title": "Conferences",
+    "section": "Prior Conferences2",
+    "text": "Prior Conferences2\n\n4th ISNPS Conference Salerno, Italy, June 11-15, 2018 Link\n3rd ISNPS Conference Avignon, France, June 11-16, 2016 Link\n2nd ISNPS Conference Cadiz, Spain, June 12-16, 2014 Link\n1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 Link\n0th ISNPS Conference Crete, Greece, July 15-19, 20023"
+  },
+  {
+    "objectID": "conferences.html#footnotes",
+    "href": "conferences.html#footnotes",
+    "title": "Conferences",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHeld under the auspices of International Symposia on Nonparametric Statistics↩︎\nHeld under the auspices of International Society for Nonparametric Statistics↩︎\nHeld under the auspices of International Conference on Current Advances and Trends in Nonparametric Statistics↩︎"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ISNPS",
@@ -12,41 +47,6 @@
     "title": "ISNPS",
     "section": "",
     "text": "The purpose of the ISNPS Group is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating the group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions.\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (details TBA)."
-  },
-  {
-    "objectID": "meetings.html",
-    "href": "meetings.html",
-    "title": "Conferences and Meetings",
-    "section": "",
-    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details/link TBA)"
-  },
-  {
-    "objectID": "meetings.html#upcoming-conference",
-    "href": "meetings.html#upcoming-conference",
-    "title": "Conferences and Meetings",
-    "section": "",
-    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details/link TBA)"
-  },
-  {
-    "objectID": "meetings.html#most-recent-conference",
-    "href": "meetings.html#most-recent-conference",
-    "title": "Conferences and Meetings",
-    "section": "Most Recent Conference1",
-    "text": "Most Recent Conference1\n\n5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 Link"
-  },
-  {
-    "objectID": "meetings.html#prior-conferences",
-    "href": "meetings.html#prior-conferences",
-    "title": "Conferences and Meetings",
-    "section": "Prior Conferences2",
-    "text": "Prior Conferences2\n\n4th ISNPS Conference Salerno, Italy, June 11-15, 2018 Link\n3rd ISNPS Conference Avignon, France, June 11-16, 2016 Link\n2nd ISNPS Conference Cadiz, Spain, June 12-16, 2014 Link\n1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 Link\n0th ISNPS Conference Crete, Greece, July 15-19, 20023"
-  },
-  {
-    "objectID": "meetings.html#footnotes",
-    "href": "meetings.html#footnotes",
-    "title": "Conferences and Meetings",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nHeld under the auspices of International Symposia on Nonparametric Statistics↩︎\nHeld under the auspices of International Society for Nonparametric Statistics↩︎\nHeld under the auspices of International Conference on Current Advances and Trends in Nonparametric Statistics↩︎"
   },
   {
     "objectID": "people.html",

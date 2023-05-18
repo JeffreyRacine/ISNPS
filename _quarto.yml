@@ -9,7 +9,7 @@ website:
 #    left:
 #      - href: index.qmd
 #        text: Home
-#      - meetings.qmd
+#      - conferences.qmd
 #      - posts.qmd
 #      - people.qmd     
   sidebar:
@@ -21,7 +21,7 @@ website:
           - index.qmd
       - section: "Information"
         contents:
-          - meetings.qmd
+          - conferences.qmd
           - people.qmd   
       - section: "News"
         contents:
