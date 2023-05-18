@@ -5,6 +5,7 @@ project:
 website:
   title: "International Symposia on Nonparametric Statistics (ISNPS)"
   navbar:
+    search: true  
     left:
       - href: index.qmd
         text: Home
