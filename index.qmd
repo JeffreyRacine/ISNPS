@@ -1,5 +1,5 @@
 ---
-title: "About ISNPS"
+title: "ISNPS"
 ---
 
 ## International Symposia on Nonparametric Statistics
