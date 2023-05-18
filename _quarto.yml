@@ -19,7 +19,7 @@ website:
       - section: "Home"
         contents:
           - index.qmd
-      - section: "Subjects"
+      - section: "Information"
         contents:
           - meetings.qmd
           - people.qmd   
