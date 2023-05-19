@@ -12,9 +12,9 @@ title: "Conferences"
 
 ## Prior Conferences^[Held under the auspices of *International Society for Nonparametric Statistics*]
 
-- 4th ISNPS Conference Salerno, Italy, June 11-15, 2018 (<a href="https://web.unisa.it/unisa-rescue-page/dettaglio/id/202/module/87/row/2255">Link</a>, [Program PDF](programs/avignon_program_2016.pdf))
+- 4th ISNPS Conference Salerno, Italy, June 11-15, 2018 (<a href="https://web.unisa.it/unisa-rescue-page/dettaglio/id/202/module/87/row/2255">Link</a>)
 
-- 3rd ISNPS Conference Avignon, France, June 11-16, 2016 (<a href="https://isnpstat.org/index.php?option=com_content&view=article&id=56&Itemid=188">Link</a>)
+- 3rd ISNPS Conference Avignon, France, June 11-16, 2016 (<a href="https://isnpstat.org/index.php?option=com_content&view=article&id=56&Itemid=188">Link</a>, [Program PDF](programs/avignon_program_2016.pdf))
 
 - 2nd ISNPS Conference Cadiz, Spain, June 12-16, 2014 (<a href="https://isnpstat.org/index.php?option=com_content&view=article&id=1&Itemid=182">Link</a>, [Program PDF](programs/cadiz_program_2014.pdf))
 
