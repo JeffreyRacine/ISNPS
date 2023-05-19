@@ -16,7 +16,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Home"
+      - section: "About"
         contents:
           - index.qmd
       - section: "Information"
