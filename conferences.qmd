@@ -18,6 +18,6 @@ title: "Conferences"
 
 - 2nd ISNPS Conference Cádiz, Spain, June 12-16, 2014 (<a href="https://isnpstat.org/index.php?option=com_content&view=article&id=1&Itemid=182">Website</a>, [Program](programs/cadiz_program_2014.pdf), [Abstracts](programs/cadiz_abstracts_2014.pdf), [Proceedings](programs/cadiz_proceedings_2014.pdf))
 
-- 1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 (<a href="https://isnpstat.org/firstISNPS">Website</a>, [Abstracts](programs/chalkidiki_abstracts_2012.pdf), [Proceedings](programs/chalkidiki_proceedings_2012.pdf))
+- 1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 (<a href="https://isnpstat.org/firstISNPS">Website</a>, [Program](programs/chalkidiki_program_2012.pdf) [Abstracts](programs/chalkidiki_abstracts_2012.pdf), [Proceedings](programs/chalkidiki_proceedings_2012.pdf))
 
 - 0th ISNPS Conference Crete, Greece, July 15-19, 2002^[Held under the auspices of *International Conference on Current Advances and Trends in Nonparametric Statistics*] (<a href="https://www.elsevier.com/books/recent-advances-and-trends-in-nonparametric-statistics/akritas/978-0-444-51378-6">Proceedings</a>)
