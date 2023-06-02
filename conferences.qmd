@@ -8,7 +8,7 @@ title: "Conferences"
 
 ## Most Recent Conference^[Held under the auspices of *International Symposia on Nonparametric Statistics*]
 
-- 5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 (<a href="https://cyprusconferences.org/isnps2022">Website</a>, [Program](programs/paphos_program_2022.pdf))
+- 5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 (<a href="https://cyprusconferences.org/isnps2022">Website</a>, [Program](programs/paphos_program_2022.pdf), [Abstracts](programs/paphos_abstracts_2022.pdf))
 
 ## Prior Conferences^[Held under the auspices of *International Society for Nonparametric Statistics*]
 
