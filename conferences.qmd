@@ -8,16 +8,16 @@ title: "Conferences"
 
 ## Most Recent Conference^[Held under the auspices of *International Symposia on Nonparametric Statistics*]
 
-- 5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 (<a href="https://cyprusconferences.org/isnps2022">Website</a>, [Program](programs/paphos_program_2022.pdf), [Abstracts](programs/paphos_abstracts_2022.pdf))
+- 5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 ([Program](programs/paphos_program_2022.pdf), [Abstracts](programs/paphos_abstracts_2022.pdf))
 
 ## Prior Conferences^[Held under the auspices of *International Society for Nonparametric Statistics*]
 
-- 4th ISNPS Conference Salerno, Italy, June 11-15, 2018 (<a href="https://web.unisa.it/unisa-rescue-page/dettaglio/id/202/module/87/row/2255">Website</a>, [Program](programs/salerno_program_2018.pdf), [Abstracts](programs/salerno_abstracts_2018.pdf), [Proceedings](programs/salerno_proceedings_2018.pdf))
+- 4th ISNPS Conference Salerno, Italy, June 11-15, 2018 ([Program](programs/salerno_program_2018.pdf), [Abstracts](programs/salerno_abstracts_2018.pdf), [Proceedings](programs/salerno_proceedings_2018.pdf))
 
-- 3rd ISNPS Conference Avignon, France, June 11-16, 2016 (<a href="https://isnpstat.org/index.php?option=com_content&view=article&id=56&Itemid=188">Website</a>, [Program](programs/avignon_program_2016.pdf), [Abstracts](programs/avignon_abstracts_2016.pdf), [Proceedings](programs/avignon_proceedings_2016.pdf))
+- 3rd ISNPS Conference Avignon, France, June 11-16, 2016 ([Program](programs/avignon_program_2016.pdf), [Abstracts](programs/avignon_abstracts_2016.pdf), [Proceedings](programs/avignon_proceedings_2016.pdf))
 
-- 2nd ISNPS Conference Cádiz, Spain, June 12-16, 2014 (<a href="https://isnpstat.org/index.php?option=com_content&view=article&id=1&Itemid=182">Website</a>, [Program](programs/cadiz_program_2014.pdf), [Abstracts](programs/cadiz_abstracts_2014.pdf), [Proceedings](programs/cadiz_proceedings_2014.pdf))
+- 2nd ISNPS Conference Cádiz, Spain, June 12-16, 2014 ([Program](programs/cadiz_program_2014.pdf), [Abstracts](programs/cadiz_abstracts_2014.pdf), [Proceedings](programs/cadiz_proceedings_2014.pdf))
 
-- 1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 (<a href="https://isnpstat.org/firstISNPS">Website</a>, [Program](programs/chalkidiki_program_2012.pdf), [Abstracts](programs/chalkidiki_abstracts_2012.pdf), [Proceedings](programs/chalkidiki_proceedings_2012.pdf))
+- 1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 ([Program](programs/chalkidiki_program_2012.pdf), [Abstracts](programs/chalkidiki_abstracts_2012.pdf), [Proceedings](programs/chalkidiki_proceedings_2012.pdf))
 
 - 0th ISNPS Conference Crete, Greece, July 15-19, 2002^[Held under the auspices of *International Conference on Current Advances and Trends in Nonparametric Statistics*] ([Program](programs/crete_program_2002.pdf), <a href="https://www.elsevier.com/books/recent-advances-and-trends-in-nonparametric-statistics/akritas/978-0-444-51378-6">Proceedings</a>)
