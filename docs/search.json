@@ -1,17 +1,38 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ISNPS",
+    "section": "",
+    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
+  },
+  {
+    "objectID": "index.html#international-symposia-on-nonparametric-statistics",
+    "href": "index.html#international-symposia-on-nonparametric-statistics",
+    "title": "ISNPS",
+    "section": "",
+    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
+  },
+  {
     "objectID": "conferences.html",
     "href": "conferences.html",
     "title": "Conferences",
     "section": "",
-    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details TBA)"
+    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
   },
   {
     "objectID": "conferences.html#upcoming-conference",
     "href": "conferences.html#upcoming-conference",
     "title": "Conferences",
     "section": "",
-    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details TBA)"
+    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
   },
   {
     "objectID": "conferences.html#most-recent-conference",
@@ -35,20 +56,6 @@
     "text": "Footnotes\n\n\nHeld under the auspices of International Symposia on Nonparametric Statistics↩︎\nHeld under the auspices of International Society for Nonparametric Statistics↩︎\nHeld under the auspices of International Conference on Current Advances and Trends in Nonparametric Statistics↩︎"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ISNPS",
-    "section": "",
-    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (details TBA)."
-  },
-  {
-    "objectID": "index.html#international-symposia-on-nonparametric-statistics",
-    "href": "index.html#international-symposia-on-nonparametric-statistics",
-    "title": "ISNPS",
-    "section": "",
-    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (details TBA)."
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -68,12 +75,5 @@
     "title": "People",
     "section": "ISNPS Steering Committee",
     "text": "ISNPS Steering Committee\n\nPatrice Bertail\nRicardo Cao\nHira L. Koul\nJens-Peter Kreiß\nSoumendra Lahiri\nMichele La Rocca\nGeorge Michailidis\nUrsula U. Müller\nEfstathios Paparoditis\nMarianna Pensky\nDimitris N. Politis\nJeffrey S. Racine\nIngrid Van Keilegom"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "No matching items"
   }
 ]

@@ -29,7 +29,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: default
     css: styles.css
     toc: true
     smooth-scroll: true

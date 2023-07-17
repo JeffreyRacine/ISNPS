@@ -8,6 +8,6 @@ The purpose of ISNPS is to foster the research and application of nonparametric 
 
 ISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days,  and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.
 
-The next conference will be held in Braga, Portugal, June 25-29, 2024 (details TBA).
+The next conference will be held in Braga, Portugal, June 25-29, 2024 (<a href="https://w3.math.uminho.pt/ISNPS2024/">Link to Conference Website</a>)
 
 

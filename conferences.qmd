@@ -4,7 +4,7 @@ title: "Conferences"
 
 ## Upcoming Conference
 
-- 6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (details TBA)
+- 6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (<a href="https://w3.math.uminho.pt/ISNPS2024/">Link to Conference Website</a>)
 
 ## Most Recent Conference^[Held under the auspices of *International Symposia on Nonparametric Statistics*]
 
