@@ -22,7 +22,8 @@ website:
       - section: "Information"
         contents:
           - conferences.qmd
-          - people.qmd   
+          - people.qmd
+          - contact.qmd             
       - section: "News"
         contents:
           - posts.qmd

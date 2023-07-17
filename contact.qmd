@@ -1,0 +1,14 @@
+---
+title: "Contact"
+---
+
+## Contact Information
+
+Ricardo Cao
+Departamento de Matemáticas
+Facultad de Informática
+Campus de Elviña, s/n
+15071 - A Coruña (Spain)
++34.981.167.000 Ext. 1225
+ricardo.cao@udc.es
+
