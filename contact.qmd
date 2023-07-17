@@ -1,14 +1,14 @@
 ---
-title: "Contact"
+title: "Contacting ISNPS"
 ---
 
-## Contact Information
+Kindly direct inquiries to the following:
 
-Ricardo Cao
-Departamento de Matemáticas
-Facultad de Informática
-Campus de Elviña, s/n
-15071 - A Coruña (Spain)
-+34.981.167.000 Ext. 1225
+Ricardo Cao\
+Departamento de Matemáticas\
+Facultad de Informática\
+Campus de Elviña, s/n\
+15071 - A Coruña (Spain)\
++34.981.167.000 Ext. 1225\
 ricardo.cao@udc.es
 

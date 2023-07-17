@@ -10,4 +10,14 @@ ISNPS conferences provide a platform for showcasing recent advancements and tren
 
 The next conference will be held in Braga, Portugal, June 25-29, 2024 (<a href="https://w3.math.uminho.pt/ISNPS2024/">Link to Conference Website</a>)
 
+## Relationship to the Institute of Mathematical Statistics (IMS)
+
+ISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS. 
+
+More information on IMS, IMS groups and the IMS group ISNPS can be found at the following website links:
+
+  - <a href="https://imstat.org/">Link to IMSTAT.ORG</a>
+  - <a href="https://imstat.org/ims-groups/">Link to IMS groups at IMSTAT.ORG</a>
+  - <a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/">Link to ISNPS at IMSTAT.ORG</a>
+
 
