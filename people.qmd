@@ -4,7 +4,7 @@ title: "People"
 
 ## Group Coordinator
 
-- Ricardo Cao
+- George Michailidis
 
 ## ISNPS Steering Committee
 
@@ -14,7 +14,6 @@ title: "People"
 - Jens-Peter Kreiß
 - Soumendra Lahiri
 - Michele La Rocca
-- George Michailidis
 - Ursula U. Müller
 - Efstathios Paparoditis
 - Marianna Pensky
