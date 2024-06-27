@@ -10,9 +10,9 @@ title: "Conferences"
 
 - 6th ISNPS Conference Braga, Portugal, June 25-29, 2024  ([Program](programs/braga_program_2024.pdf), [Abstracts](programs/braga_abstracts_2024.pdf))
 
-- 5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 ([Program](programs/paphos_program_2022.pdf), [Abstracts](programs/paphos_abstracts_2022.pdf))
+## Prior Conferences^[Conferences 1-4 held under the auspices of *International Society for Nonparametric Statistics*]
 
-## Prior Conferences^[Held under the auspices of *International Society for Nonparametric Statistics*]
+- 5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 ([Program](programs/paphos_program_2022.pdf), [Abstracts](programs/paphos_abstracts_2022.pdf))
 
 - 4th ISNPS Conference Salerno, Italy, June 11-15, 2018 ([Program](programs/salerno_program_2018.pdf), [Abstracts](programs/salerno_abstracts_2018.pdf), [Proceedings](programs/salerno_proceedings_2018.pdf))
 
