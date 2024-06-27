@@ -10,7 +10,7 @@ ISNPS conferences provide a platform for showcasing recent advancements and tren
 
 You might find it interesting to browse the General Assembly slides presented in Braga outlining future ISNPS conferences, a brief history of ISNPS, etc., given by George Michailidis June 26 in Braga, Portugal ([Link to Slides](programs/braga_ga_2024.pdf))
 
-The next conference will be held in Braga, Portugal, June 25-29, 2024 (<a href="https://w3.math.uminho.pt/ISNPS2024/">Link to Conference Website</a>)
+The most recent conference was held in Braga, Portugal, June 25-29, 2024 (<a href="https://w3.math.uminho.pt/ISNPS2024/">Link to Conference Website</a>)
 
 ## Relationship to the Institute of Mathematical Statistics (IMS)
 
