@@ -4,70 +4,110 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "George Michailidis"
+    "text": "George Michailidis",
+    "crumbs": [
+      "Information",
+      "People"
+    ]
   },
   {
     "objectID": "people.html#group-coordinator",
     "href": "people.html#group-coordinator",
     "title": "People",
     "section": "",
-    "text": "George Michailidis"
+    "text": "George Michailidis",
+    "crumbs": [
+      "Information",
+      "People"
+    ]
   },
   {
     "objectID": "people.html#isnps-steering-committee",
     "href": "people.html#isnps-steering-committee",
     "title": "People",
     "section": "ISNPS Steering Committee",
-    "text": "ISNPS Steering Committee\n\nPatrice Bertail\nRicardo Cao\nHira L. Koul\nJens-Peter Kreiß\nSoumendra Lahiri\nMichele La Rocca\nGeorge Michailidis\nUrsula U. Müller\nEfstathios Paparoditis\nMarianna Pensky\nDimitris N. Politis\nJeffrey S. Racine\nIngrid Van Keilegom"
+    "text": "ISNPS Steering Committee\n\nPatrice Bertail\nRicardo Cao\nHira L. Koul\nJens-Peter Kreiß\nSoumendra Lahiri\nMichele La Rocca\nGeorge Michailidis\nUrsula U. Müller\nEfstathios Paparoditis\nMarianna Pensky\nDimitris N. Politis\nJeffrey S. Racine\nIngrid Van Keilegom",
+    "crumbs": [
+      "Information",
+      "People"
+    ]
   },
   {
     "objectID": "conferences.html",
     "href": "conferences.html",
     "title": "Conferences",
     "section": "",
-    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
+    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (Link to Conference Website)",
+    "crumbs": [
+      "Information",
+      "Conferences"
+    ]
   },
   {
     "objectID": "conferences.html#upcoming-conference",
     "href": "conferences.html#upcoming-conference",
     "title": "Conferences",
     "section": "",
-    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
+    "text": "6th ISNPS Conference Braga, Portugal, June 25-29, 2024 (Link to Conference Website)",
+    "crumbs": [
+      "Information",
+      "Conferences"
+    ]
   },
   {
     "objectID": "conferences.html#most-recent-conference",
     "href": "conferences.html#most-recent-conference",
     "title": "Conferences",
     "section": "Most Recent Conference1",
-    "text": "Most Recent Conference1\n\n5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 (Program, Abstracts)"
+    "text": "Most Recent Conference1\n\n5th ISNPS Conference Paphos, Cyprus, June 20-24, 2022 (Program, Abstracts)",
+    "crumbs": [
+      "Information",
+      "Conferences"
+    ]
   },
   {
     "objectID": "conferences.html#prior-conferences",
     "href": "conferences.html#prior-conferences",
     "title": "Conferences",
     "section": "Prior Conferences2",
-    "text": "Prior Conferences2\n\n4th ISNPS Conference Salerno, Italy, June 11-15, 2018 (Program, Abstracts, Proceedings)\n3rd ISNPS Conference Avignon, France, June 11-16, 2016 (Program, Abstracts, Proceedings)\n2nd ISNPS Conference Cádiz, Spain, June 12-16, 2014 (Program, Abstracts, Proceedings)\n1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 (Program, Abstracts, Proceedings)\n0th ISNPS Conference Crete, Greece, July 15-19, 20023 (Program, Proceedings)"
+    "text": "Prior Conferences2\n\n4th ISNPS Conference Salerno, Italy, June 11-15, 2018 (Program, Abstracts, Proceedings)\n3rd ISNPS Conference Avignon, France, June 11-16, 2016 (Program, Abstracts, Proceedings)\n2nd ISNPS Conference Cádiz, Spain, June 12-16, 2014 (Program, Abstracts, Proceedings)\n1st ISNPS Conference Chalkidiki, Greece, June 15-19, 2012 (Program, Abstracts, Proceedings)\n0th ISNPS Conference Crete, Greece, July 15-19, 20023 (Program, Proceedings)",
+    "crumbs": [
+      "Information",
+      "Conferences"
+    ]
   },
   {
     "objectID": "conferences.html#footnotes",
     "href": "conferences.html#footnotes",
     "title": "Conferences",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nHeld under the auspices of International Symposia on Nonparametric Statistics↩︎\nHeld under the auspices of International Society for Nonparametric Statistics↩︎\nHeld under the auspices of International Conference on Current Advances and Trends in Nonparametric Statistics↩︎"
+    "text": "Footnotes\n\n\nHeld under the auspices of International Symposia on Nonparametric Statistics↩︎\nHeld under the auspices of International Society for Nonparametric Statistics↩︎\nHeld under the auspices of International Conference on Current Advances and Trends in Nonparametric Statistics↩︎",
+    "crumbs": [
+      "Information",
+      "Conferences"
+    ]
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contacting ISNPS",
     "section": "",
-    "text": "Kindly direct inquiries to the following:\nGeorge Michailidis\nDepartment of Statistics and Data Science\n8125 Math Sciences Bldg.\nBox 951554\nLos Angeles, CA\n90095-1554\ngmichail@ucla.edu"
+    "text": "Kindly direct inquiries to the following:\nGeorge Michailidis\nDepartment of Statistics and Data Science\n8125 Math Sciences Bldg.\nBox 951554\nLos Angeles, CA\n90095-1554\ngmichail@ucla.edu",
+    "crumbs": [
+      "Information",
+      "Contacting ISNPS"
+    ]
   },
   {
     "objectID": "contact.html#inquiries",
     "href": "contact.html#inquiries",
     "title": "Contacting ISNPS",
     "section": "",
-    "text": "Kindly direct inquiries to the following:\nGeorge Michailidis\nDepartment of Statistics and Data Science\n8125 Math Sciences Bldg.\nBox 951554\nLos Angeles, CA\n90095-1554\ngmichail@ucla.edu"
+    "text": "Kindly direct inquiries to the following:\nGeorge Michailidis\nDepartment of Statistics and Data Science\n8125 Math Sciences Bldg.\nBox 951554\nLos Angeles, CA\n90095-1554\ngmichail@ucla.edu",
+    "crumbs": [
+      "Information",
+      "Contacting ISNPS"
+    ]
   },
   {
     "objectID": "posts/2023-08-10-website-online/index.html",
@@ -81,27 +121,43 @@
     "href": "index.html",
     "title": "ISNPS",
     "section": "",
-    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
+    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nGeneral assembly slide outlining future conferrences, history of ISNPS, etc., from Braga, Portugal, June 25-29, 2024 Slides\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (Link to Conference Website)",
+    "crumbs": [
+      "About",
+      "ISNPS"
+    ]
   },
   {
     "objectID": "index.html#international-symposia-on-nonparametric-statistics",
     "href": "index.html#international-symposia-on-nonparametric-statistics",
     "title": "ISNPS",
     "section": "",
-    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (Link to Conference Website)"
+    "text": "The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of International Symposia on Nonparametric Statistics (ISNPS).\nISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.\nGeneral assembly slide outlining future conferrences, history of ISNPS, etc., from Braga, Portugal, June 25-29, 2024 Slides\nThe next conference will be held in Braga, Portugal, June 25-29, 2024 (Link to Conference Website)",
+    "crumbs": [
+      "About",
+      "ISNPS"
+    ]
   },
   {
     "objectID": "index.html#relationship-to-the-institute-of-mathematical-statistics-ims",
     "href": "index.html#relationship-to-the-institute-of-mathematical-statistics-ims",
     "title": "ISNPS",
     "section": "Relationship to the Institute of Mathematical Statistics (IMS)",
-    "text": "Relationship to the Institute of Mathematical Statistics (IMS)\nISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS.\nMore information on IMS, IMS groups and the IMS group ISNPS can be found at the following website links:\n\nLink to IMSTAT.ORG\nLink to IMS groups at IMSTAT.ORG\nLink to ISNPS at IMSTAT.ORG"
+    "text": "Relationship to the Institute of Mathematical Statistics (IMS)\nISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS.\nMore information on IMS, IMS groups and the IMS group ISNPS can be found at the following website links:\n\nLink to IMSTAT.ORG\nLink to IMS groups at IMSTAT.ORG\nLink to ISNPS at IMSTAT.ORG",
+    "crumbs": [
+      "About",
+      "ISNPS"
+    ]
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "You can read the full contents of any post by clicking on that post.\n\n\n\n\n\n\n\n\n\n\n\n\nisnps.org Website and Blog\n\n\nThe isnps.org website is now available online\n\n\n\nJeffrey Racine\n\n\nAug 10, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "You can read the full contents of any post by clicking on that post.\n\n\n\n\n\n\n\n\n\n\n\n\nisnps.org Website and Blog\n\n\nThe isnps.org website is now available online\n\n\n\nJeffrey Racine\n\n\nAug 10, 2023\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "News",
+      "Posts"
+    ]
   }
 ]
