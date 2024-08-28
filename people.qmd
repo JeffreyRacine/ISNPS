@@ -9,7 +9,6 @@ title: "People"
 ## ISNPS Steering Committee
 
 - Patrice Bertail
-- Ricardo Cao
 - Hira L. Koul
 - Jens-Peter Kreiß
 - Soumendra Lahiri
@@ -21,3 +20,10 @@ title: "People"
 - Dimitris N. Politis
 - Jeffrey S. Racine
 - Ingrid Van Keilegom
+
+## Past Members
+
+- Ricardo Cao
+- Soumendra Lahiri
+- Regina Liu
+- Dimitris Politis
