@@ -9,10 +9,13 @@ title: "People"
 ## ISNPS Steering Committee
 
 - Patrice Bertail
+- Sophie Dabo
+- Juan Carlos Escanciano
 - Hira L. Koul
 - Jens-Peter Kreiß
 - Soumendra Lahiri
 - Michele La Rocca
+- Antonio Lijoi
 - George Michailidis
 - Ursula U. Müller
 - Efstathios Paparoditis
