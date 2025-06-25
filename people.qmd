@@ -14,19 +14,18 @@ title: "People"
 - Hira L. Koul
 - Jens-Peter Kreiß
 - Soumendra Lahiri
-- Michele La Rocca
 - Antonio Lijoi
 - George Michailidis
 - Ursula U. Müller
 - Efstathios Paparoditis
 - Marianna Pensky
-- Dimitris N. Politis
 - Jeffrey S. Racine
 - Ingrid Van Keilegom
 
 ## Past Members
 
 - Ricardo Cao
+- Michele La Rocca
 - Soumendra Lahiri
 - Regina Liu
 - Dimitris Politis
