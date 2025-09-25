@@ -4,7 +4,7 @@ title: "Conferences"
 
 ## Upcoming Conference
 
-- 7th ISNPS Conference Thessaloniki, Greece, June 22-26, 2026 
+- 7th ISNPS Conference Thessaloniki, Greece, June 22-26, 2026 ([Website](https://easyconferences.eu/isnps2026/))
 
 ## Most Recent Conference^[Held under the auspices of *International Symposia on Nonparametric Statistics*]
 

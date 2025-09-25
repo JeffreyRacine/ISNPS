@@ -6,20 +6,18 @@ title: "ISNPS"
 
 The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of *International Symposia on Nonparametric Statistics* (ISNPS).
 
-ISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days,  and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.
+ISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.
 
 You might find it interesting to browse the General Assembly slides presented in Braga outlining future ISNPS conferences, a brief history of ISNPS, etc., given by George Michailidis June 26 in Braga, Portugal ([Link to Slides](programs/braga_ga_2024.pdf))
 
-The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026 (see slides above for more information).
+The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026. Information can be found at [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/).
 
 ## Relationship to the Institute of Mathematical Statistics (IMS)
 
-ISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS. 
+ISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS.
 
 More information on IMS, IMS groups and the IMS group ISNPS can be found at the following website links:
 
-  - <a href="https://imstat.org/">Link to IMSTAT.ORG</a>
-  - <a href="https://imstat.org/ims-groups/">Link to IMS groups at IMSTAT.ORG</a>
-  - <a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/">Link to ISNPS at IMSTAT.ORG</a>
-
-
+-   <a href="https://imstat.org/">Link to IMSTAT.ORG</a>
+-   <a href="https://imstat.org/ims-groups/">Link to IMS groups at IMSTAT.ORG</a>
+-   <a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/">Link to ISNPS at IMSTAT.ORG</a>
