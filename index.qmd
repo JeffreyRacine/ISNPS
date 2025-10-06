@@ -10,7 +10,7 @@ ISNPS conferences provide a platform for showcasing recent advancements and tren
 
 You might find it interesting to browse the General Assembly slides presented in Braga outlining future ISNPS conferences, a brief history of ISNPS, etc., given by George Michailidis June 26 in Braga, Portugal ([Link to Slides](programs/braga_ga_2024.pdf))
 
-The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026. Information can be found at [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/).
+The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026. Information can be found at [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/). 
 
 ## Relationship to the Institute of Mathematical Statistics (IMS)
 
@@ -21,3 +21,6 @@ More information on IMS, IMS groups and the IMS group ISNPS can be found at the 
 -   <a href="https://imstat.org/">Link to IMSTAT.ORG</a>
 -   <a href="https://imstat.org/ims-groups/">Link to IMS groups at IMSTAT.ORG</a>
 -   <a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/">Link to ISNPS at IMSTAT.ORG</a>
+
+
+The IMS link for the 7th ISNPS Conference can be bound at [https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/](https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/).
