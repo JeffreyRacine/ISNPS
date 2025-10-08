@@ -8,14 +8,18 @@ title: "People"
 
 ## ISNPS Steering Committee
 
+- Sergios Agapiou
 - Patrice Bertail
+- Jelena Bradic
 - Sophie Dabo
 - Juan Carlos Escanciano
 - Hira L. Koul
 - Jens-Peter Kreiß
 - Soumendra Lahiri
+- Anne Leucht
 - Antonio Lijoi
 - George Michailidis
+- Dan Nordman
 - Ursula U. Müller
 - Efstathios Paparoditis
 - Marianna Pensky
