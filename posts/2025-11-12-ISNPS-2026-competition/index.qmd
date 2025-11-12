@@ -1,0 +1,151 @@
+---
+title: "ISNPS 2026 Student Paper Competition — Call for Submissions"
+description: "ISNPS 2026 Student Paper Competition — Call for Submissions"
+author:
+  - name: Jeffrey Racine
+    affiliation: Department of Economics & Graduate Program in Statistics (Department of Mathematics and Statistics), McMaster University
+    affiliation-url: https://experts.mcmaster.ca/display/racinej
+date: 11-12-2025
+draft: false
+feed: true
+---
+
+## ISNPS 2026 Student Paper Competition — Call for Submissions
+
+**Deadline:** January 31, 2026 (23:59 Pacific daylight time)  
+**Conference:** International Symposium on Nonparametric Statistics (**ISNPS 2026**)  
+**Website:** [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/)
+
+The program scientific committee of ISNPS 2026 invites student submissions in **nonparametric statistics**, broadly construed to include theory, methods, and applications with modern connections to **machine learning (ML)** and **artificial intelligence (AI)**.
+
+> Papers already accepted for publication are **not eligible**.
+
+We expect **approximately 4–5 winners**. Winners will:
+- Present in a **dedicated invited session** at ISNPS 2026
+- Receive an **ISNPS 2026 registration fee waiver**
+- Be awarded a **prize** and an **award certificate**
+
+Outstanding honorable mentions may choose to present either in the **competitive Student Poster Session (award-eligible)** or in a **contributed session**.
+
+---
+
+## Eligibility
+
+- The author must be a **current graduate student at the time of submission**
+- The student must be the **first and presenting author** (joint first authorships are not allowed)
+- The paper **must not** be accepted for publication at the time of submission
+- The student must be **willing to attend ISNPS 2026 and present** if selected
+- **One submission per student** to this competition
+
+---
+
+## Submission Materials
+
+Submit via the **ISNPS 2026 Submission Portal**:  
+https://easyconferences.eu/isnps2026/
+
+Include the following **PDFs**. **Items 1–4 must be blinded** (no author-identifying information). The advisor’s letter (Item 5) **need not be blinded**.
+
+1. **Title**  
+2. **Abstract**  
+3. **Main Paper File** — PDF, single-column (no two-column format), max 30 pages total including references and appendices; double-spacing is not required  
+4. **Supplement** — Optional appendix with proofs, technical details, extended experiments, etc.  
+5. **Advisor’s Letter** — Verifies current student status and describes the applicant’s contribution (for coauthored work)
+
+All materials must be in **English** and submitted by **January 31, 2026 (23:59 PDT)**.
+
+Submissions (Items 1–4) must be **fully anonymized**:
+- Omit author names/affiliations, acknowledgments, and self-identifying references
+- Scrub identifying info from **file names and metadata**
+- Refer to prior work in the **third person** or as “**Blinded for review**”
+
+---
+
+## Review Process
+
+An **ad hoc committee chaired by Jelena Bradic** will evaluate submissions holistically, emphasizing:
+- Strength of scholarly contribution
+- Degree of innovation and overall significance (theoretical, methodological, applied)
+- Relevance to nonparametric statistics broadly construed, including connections to **ML**, **AI**, and real-world applications
+
+Reviewers with **conflicts of interest** (e.g., advisor/advisee relationships, recent coauthorships, or same institution) will be **recused**.
+
+---
+
+## Timeline
+
+- **Submission deadline:** January 31, 2026 (23:59 PDT)  
+- **Notifications:** March 2026  
+- **Final titles/abstracts due (for program):** April 2026  
+- **Session confirmations & scheduling:** April–May 2026
+
+---
+
+## Awards & Presentation
+
+- **Awards (4–5 expected):**
+  - Invited talks in a **dedicated invited session** at ISNPS 2026
+  - **ISNPS 2026 registration fee waived**
+  - **Award certificate**
+- **Honorable Mentions:** Choice of **Student Poster Session (award-eligible)** or a **contributed session**
+- **Top winner:** €500 toward travel expenses  
+- **Other awardees:** €250 each
+
+---
+
+## FAQ
+
+**Who can apply?**  
+Graduate students who are the **first and presenting author** at submission time. One submission per student.
+
+**What counts as “nonparametric”?**  
+Broadly construed—core nonparametrics and work with strong links to **ML** and **AI** (theory, methods, or applications) are welcome.
+
+**Is previously submitted or under-review work allowed?**  
+Yes, as long as the paper has **not been accepted** for publication by the submission deadline.
+
+**Can I have coauthors (including faculty/industry)?**  
+Yes. Coauthors are allowed, but the **student must be first and presenting author**. The **Advisor’s Letter** should describe the student’s contribution.
+
+**What exactly should I upload?**  
+1. Title  
+2. Abstract  
+3. Main Paper File (PDF, single-column, max 30 pages including references and appendices)  
+4. Optional Supplement  
+5. Advisor’s Letter
+
+**How strict is the 30-page limit?**  
+Strict. The **Main Paper File** may not exceed **30 pages total**. The Supplement has no fixed limit but should be concise.
+
+**Any font/margin requirements?**  
+No specific style mandated. Use a **readable font**, **standard margins**, and **single-column PDF** format.
+
+**How do I blind my submission?**  
+Remove names/affiliations and acknowledgments; cite prior work in the **third person** or as “Blinded for review”; scrub author info from **file names and metadata**.
+
+**How are papers reviewed?**  
+A **holistic review** by an ad hoc committee chaired by **Professor Jelena Bradic**, focusing on scholarly contribution, innovation, significance, and relevance to nonparametric statistics and ML/AI.
+
+**What do winners receive?**  
+~4–5 winners present in a **dedicated invited session**, receive a **registration fee waiver**, and an **award certificate**.  
+Top winner: €500 travel support; other awardees: €250.  
+Honorable mentions may present in the **Student Poster Session** or a **contributed session**.
+
+**Does the fee waiver cover travel or lodging?**  
+No. It applies to the **ISNPS 2026 registration fee only**.
+
+**When will I hear back?**  
+Target notifications: **March 2026**
+
+**Can I update my paper after submission?**  
+Yes, until the **submission deadline**. After that, submissions are locked.
+
+**Can I submit the same paper elsewhere?**  
+Yes, if the paper is **not accepted** for publication by the ISNPS deadline and there’s **no conflict** with presenting at ISNPS.
+
+**Will you provide letters for visas or travel support?**  
+**Presentation/acceptance letters** can be provided upon request. **Travel support is not guaranteed.**
+
+**What about data/ethics?**  
+Ensure **IRB/ethics approvals**, **de-identify sensitive data**, and follow **data-use agreements**. Include statements on **reproducibility** and **data/code availability** if possible.
+
