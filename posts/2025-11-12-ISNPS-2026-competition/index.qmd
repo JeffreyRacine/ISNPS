@@ -12,9 +12,9 @@ feed: true
 
 ## ISNPS 2026 Student Paper Competition — Call for Submissions
 
-**Deadline:** January 31, 2026 (23:59 Pacific daylight time)  
-**Conference:** International Symposium on Nonparametric Statistics (**ISNPS 2026**)  
-**Website:** [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/)
+**Conference:** International Symposium on Nonparametric Statistics (**ISNPS 2026**)\
+**Conference Website:** [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/)\
+**Student Paper Competition Link:** [https://www.easyacademia.org/isnps2026studentcompetition](https://www.easyacademia.org/isnps2026studentcompetition)
 
 The program scientific committee of ISNPS 2026 invites student submissions in **nonparametric statistics**, broadly construed to include theory, methods, and applications with modern connections to **machine learning (ML)** and **artificial intelligence (AI)**. Papers already accepted for publication are **not eligible**. We expect **approximately 4–5 winners**. Winners will:
 
@@ -39,7 +39,7 @@ Outstanding honorable mentions may choose to present either in the **competitive
 ## Submission Materials
 
 Submit via the **ISNPS 2026 Submission Portal** (EasyConferences):  
-https://easyconferences.eu/isnps2026/
+[https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/)\
 
 Include the following **PDFs**. **Items 1–4 must be blinded** (no author-identifying information). The advisor’s letter (Item 5) **need not be blinded**.
 
@@ -49,7 +49,7 @@ Include the following **PDFs**. **Items 1–4 must be blinded** (no author-ident
 4. **Supplement** — Optional appendix with proofs, technical details, extended experiments, etc.  
 5. **Advisor’s Letter** — Verifies current student status and describes the applicant’s contribution (for coauthored work)
 
-All materials must be in **English** and submitted by **January 31, 2026 (23:59 PDT)**.
+All materials must be in **English**.
 
 Submissions (Items 1–4) must be **fully anonymized**:
 - Omit author names/affiliations, acknowledgments, and self-identifying references
@@ -71,7 +71,6 @@ Reviewers with **conflicts of interest** (e.g., advisor/advisee relationships, r
 
 ## Timeline
 
-- **Submission deadline:** January 31, 2026 (23:59 PDT)  
 - **Notifications:** March 2026  
 - **Final titles/abstracts due (for program):** April 2026  
 - **Session confirmations & scheduling:** April–May 2026
@@ -98,6 +97,7 @@ More information is available at:
 
 - [ISNPS Website](https://isnps.org)
 - ISNPS 2026 Conference Page  [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/)
+- Student Paper Competition Link: [https://www.easyacademia.org/isnps2026studentcompetition](https://www.easyacademia.org/isnps2026studentcompetition)
 
 ---
 
