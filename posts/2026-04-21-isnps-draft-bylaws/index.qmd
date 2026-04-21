@@ -10,10 +10,6 @@ draft: false
 feed: true
 ---
 
-The current draft bylaws are available here:
-
-- [ISNPS Draft Bylaws Google Doc](https://docs.google.com/document/d/1UYSjUN76c0DYmtR87tkrp9H91OXoW7hAGixcGzLNLQ8/edit?tab=t.0)
-
 ## Institute of Mathematical Statistics ISNPS Group
 
 ### Bylaws (draft proposal - version April 2026)
