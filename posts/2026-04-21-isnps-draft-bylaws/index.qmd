@@ -10,22 +10,22 @@ draft: false
 feed: true
 ---
 
-## Institute of Mathematical Statistics ISNPS Group
+Institute of Mathematical Statistics ISNPS Group
 
-### Bylaws (draft proposal - version April 2026)
+Bylaws (draft proposal - version April 2026)
 
-The name of the group: The Institute of Mathematical Statistics (IMS) International Symposia on Nonparametric Statistics Group (ISNPS) (hereafter "the Group").
+The name of the group: The Institute of Mathematical Statistics (IMS) International Symposia on Nonparametric Statistics Group (ISNPS) (hereafter “the Group”).
 
-## 1. Aims
+## 1.    Aims
 
-- To organize the established conference series of International Symposia on Nonparametric Statistics (ISNPS)
-- To organize conferences, workshops, and sessions in other meetings
-- To foster research and practice of nonparametric statistics
-- To promote and disseminate new developments in the field
-- To provide social networking tools for purposes of discussing research, exchanging ideas, and connecting with the community at large
-- To promote the research of early career scholars in the field of nonparametric statistics
+- To organize the established conference series of International Symposia on Nonparametric Statistics (ISNPS),
+- to organize conferences, workshops, and sessions in other meetings,
+- to foster research and practice of nonparametric statistics,
+- to promote and disseminate new developments in the field,
+- to provide social networking tools for purposes of discussing research, exchanging ideas, and connecting with the community at large,
+- to promote the research of early career scholars in the field of nonparametric statistics.
 
-## 2. Offices, Terms of Offices, and Duties
+## 2.    Offices, Terms of Offices, and Duties
 
 ### 2.1 Offices and Executive Committee
 
@@ -41,7 +41,7 @@ The name of the group: The Institute of Mathematical Statistics (IMS) Internatio
 - The Web Administrator is appointed by the President, in consultation with the President-Elect and Past President, for a four-year term.
 - The Program Chair is appointed by the President, in consultation with the President-Elect and Past President. The appointee shall serve two years as Vice-Program Chair, followed by two years as Program Chair.
 
-### 2.3 Duties
+### 2.3. Duties
 
 - The Group President convenes and chairs meetings of the ISNPS EC and the membership. Additionally, the President is responsible for writing the section reports that are submitted to the president of IMS every second year and reporting activities in the IMS Bulletin.
 - The Treasurer is responsible for the financial affairs of the Group.
@@ -50,43 +50,42 @@ The name of the group: The Institute of Mathematical Statistics (IMS) Internatio
 - The Program Chair is primarily responsible for organizing the biennial symposium at the host institution and will serve as co-chair of the Scientific Committee. This Chair will also act as liaison to the scientific committees of conferences and workshops co-sponsored by the Group.
 - The right to enter into legal contracts for IMS or ISNPS is vested solely in the IMS EC.
 
-### 2.4 Officer Vacancies
+### 2.4. Officer Vacancies
 
 - In the event of the incapacity or resignation of the President, the President-Elect shall assume the office of President for the remainder of the term. If the President-Elect is unable to serve, the Past President shall assume the office.
 - In the event of a vacancy in the office of Treasurer, the Treasurer-Elect shall serve as Treasurer. If also the Treasurer-Elect resigns or cannot serve, this office shall be assumed by one of the three Council Members as designated by the President, in consultation with the President-Elect and Past President.
 - Vacancies among the remaining elected Council Members are filled in the next election.
 
-## 3. Membership
+## 3.    Membership
 
 - Membership in the Group requires payment of the Group membership fee; see the Section of Finances and Revenue.
 - Membership dues will be determined by the leadership in consultation with the EC.
 - Membership dues shall be collected through ISNPS conference registration system, both for attending and non-attending members.
 - The first membership Group will be determined by participants to the 2026 ISNPS conference.
 
-## 4. Conduct of Elections
+## 4.    Conduct of Elections
 
-- A three-member Selection Committee shall be appointed every two years. Two members shall be appointed by the EC based on suggestions from the Group membership. One of these members shall be designated by the EC as Chair. One member of the Selection Committee shall be an outgoing officer whose term is ending.
-- The Selection Committee shall nominate at least two candidates for each open office.
+- A three-member Nominating Committee shall be appointed every two years by the EC based on suggestions from the Group membership. One of these three members shall be designated by the EC as Chair.
+- The Nominating Committee shall nominate at least two candidates for each open office.
 - Group members vote to elect nominated members for the offices of President-Elect, Treasurer-Elect, and Council Member.
 - Elections shall be conducted electronically using the IMS voting infrastructure.
 - Ballots shall be distributed two weeks before the start of the biennial Symposium and must be returned by the end of the biennial Symposium itself.
 - The President of the Group announces the election results within one month after the conclusion of the elections.
 
-### 4.1 Temporary Provisions
+### 4.1. Temporary Provisions
 
 Transitional provisions for the first two election cycles are as follows:
+- In the first round of elections, the Nominating Committee shall be formed by three members of the Steering Committee of the Group.
+- This first Nominating Committee shall identify a slate of candidates for the following offices: President, President-Elect, Treasurer, and three Council Members.
+- In the second round of elections, the Nominating Committee shall be formed by three members who are elected by the EC based on suggestions from the Group membership. This second nominating committee shall identify candidates for the following positions: President-Elect, Treasurer-Elect, and Council Members to be replaced, if any.
 
-- In the first round of elections, the Selection Committee shall be formed by three members of the Steering Committee of the Group.
-- This first Selection Committee shall identify a slate of candidates for the following offices: President, President-Elect, Treasurer, and three Council Members.
-- In the second round of elections, the Selection Committee shall be formed by three members who are elected by the EC based on suggestions from the Group membership. This second Selection Committee shall identify candidates for the following positions: President-Elect, Treasurer-Elect, and Council Members to be replaced, if any.
-
-## 5. Finances and Revenue
+## 5.    Finances and Revenue
 
 - The Group shall operate on a revenue-neutral basis with respect to its conferences and workshops. Any surplus shall be used to support future Group activities.
 - The EC shall exercise oversight of the budget of the biennial Symposium. In collaboration with the Program Chair, the EC shall monitor the financial planning and execution of the Symposium, with the objective that the event operates on a revenue-neutral basis.
 - The EC has the responsibility of drawing up the schedule of membership fees. This schedule may provide different rates for certain subsets of the Group membership (e.g., students, retired, developing countries), as designated by the EC.
-- The Group's fiscal year is the calendar year.
+- The Group’s fiscal year is the calendar year.
 
-## 6. Amendment of Bylaws
+## 6.    Amendment of Bylaws
 
 - These bylaws may be amended by majority vote at an EC meeting. The Group will be considered inactive and dissolved by the IMS EC by resolution if no report is submitted for four consecutive years, or no elections take place within four years. Provisions in the IMS bylaws and constitution will apply in connection with any issues that are not specifically addressed in the Group bylaws.
