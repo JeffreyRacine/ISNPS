@@ -12,6 +12,8 @@ You might find it interesting to browse the General Assembly slides presented in
 
 The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026. Information can be found at [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/). 
 
+### Announcing the Inaugural ISNPS Student Paper Awards and Winners
+
 ISNPS 2026 is proud to announce its inaugural Student Paper Awards, marking the first time the symposium is recognizing outstanding student papers in this way. The committee was chaired by Jelena Bradic, with Mladen Kolar and Nikolaos Ignatiadis serving as members.
 
 The Winner is Alberto Bordino for “Nonparametric inference for ratios of densities via uniformly valid and powerful permutation tests”. A very close Second Place goes to Zhihan Huang for “Semiparametric KSD test: unifying score and distance-based approaches for goodness-of-fit testing”, and Third Place goes to Ivan Golovko for “Graphical Pitman-Yor Process for Clustering in Bayesian Networks”. Congratulations to all three awardees on this outstanding accomplishment.
