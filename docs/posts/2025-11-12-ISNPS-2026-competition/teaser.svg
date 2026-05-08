@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">ISNPS student paper competition graphic</title>
+  <desc id="desc">Abstract geometric poster with wave lines, laurel branches, and conference call motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14324b"/>
+      <stop offset="100%" stop-color="#2f6e74"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="965" cy="110" r="185" fill="#ffffff" opacity="0.08"/>
+  <circle cx="1095" cy="70" r="88" fill="#ffffff" opacity="0.08"/>
+  <path d="M80 480c110-120 240-170 388-150 120 16 219 66 334 64 95-2 181-33 318-124" fill="none" stroke="#f7efe0" stroke-width="10" stroke-linecap="round" opacity="0.72"/>
+  <path d="M80 545c113-121 246-173 397-154 118 15 215 69 330 67 94-2 179-33 313-118" fill="none" stroke="#d4b36a" stroke-width="7" stroke-linecap="round" opacity="0.86"/>
+  <path d="M248 222c-26 36-38 66-38 98 0 56 36 104 97 143" fill="none" stroke="#d4b36a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M952 222c26 36 38 66 38 98 0 56-36 104-97 143" fill="none" stroke="#d4b36a" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#f8f3ea">
+    <rect x="447" y="182" width="306" height="172" rx="22" opacity="0.95"/>
+    <rect x="483" y="221" width="232" height="12" rx="6" fill="#14324b"/>
+    <rect x="483" y="254" width="188" height="12" rx="6" fill="#2f6e74"/>
+    <rect x="483" y="287" width="212" height="12" rx="6" fill="#2f6e74"/>
+  </g>
+  <g fill="#d4b36a">
+    <circle cx="520" cy="430" r="16"/>
+    <circle cx="600" cy="430" r="16"/>
+    <circle cx="680" cy="430" r="16"/>
+  </g>
+  <text x="84" y="104" fill="#f8f3ea" font-family="Georgia, 'Times New Roman', serif" font-size="38">ISNPS 2026</text>
+  <text x="84" y="152" fill="#d4b36a" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="3">STUDENT PAPER COMPETITION</text>
+</svg>

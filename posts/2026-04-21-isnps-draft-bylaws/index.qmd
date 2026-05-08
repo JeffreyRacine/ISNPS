@@ -8,6 +8,8 @@ author:
 date: 04-21-2026
 draft: false
 feed: true
+categories: [Governance, Society]
+image: teaser.svg
 ---
 
 Institute of Mathematical Statistics ISNPS Group

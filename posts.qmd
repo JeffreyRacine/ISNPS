@@ -1,10 +1,13 @@
 ---
 title: "Posts"
+page-layout: full
 listing: 
   contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
   categories: true # allows you to sort posts by assigned categories
+  image-height: 12rem
+  fields: [image, title, description, date, categories]
 ---
 
-You can read the full contents of any post by clicking on that post.
+News, announcements, governance updates, and conference-related material for the ISNPS community are collected here. Click any card to read the full post.

@@ -1,15 +1,17 @@
 ---
 title: "Contacting ISNPS"
+page-layout: full
 ---
 
-## Inquiries
+For general ISNPS inquiries, conference-related questions, or website updates that may be of interest to the community, please contact:
 
-Kindly direct inquiries to the following:
+::: {.contact-card}
+George Michailidis  
+Department of Statistics and Data Science  
+8125 Math Sciences Bldg.  
+Box 951554  
+Los Angeles, CA  
+90095-1554  
 
-George Michailidis\
-Department of Statistics and Data Science\
-8125 Math Sciences Bldg.\
-Box 951554\
-Los Angeles, CA\
-90095-1554\
-gmichail@ucla.edu
+[gmichail@ucla.edu](mailto:gmichail@ucla.edu)
+:::

@@ -3,25 +3,27 @@ project:
   output-dir: docs
 
 website:
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "About"
-        contents:
-          - index.qmd
-      - section: "Information"
-        contents:
-          - conferences.qmd
-          - people.qmd
-          - contact.qmd             
-      - section: "News"
-        contents:
-          - posts.qmd
+  title: "ISNPS"
+  search: true
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - conferences.qmd
+      - people.qmd
+      - posts.qmd
+      - contact.qmd
+    right:
+      - text: "ISNPS 2026"
+        href: https://easyconferences.eu/isnps2026/
+  page-footer:
+    left: "International Symposia on Nonparametric Statistics"
+    right: "An IMS group supporting research and community in nonparametric statistics."
 
 format:
   html:
     theme: flatly
     css: styles.css
-    toc: true
+    toc: false
     smooth-scroll: true

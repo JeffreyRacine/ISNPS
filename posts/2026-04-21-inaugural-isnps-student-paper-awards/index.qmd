@@ -1,0 +1,38 @@
+---
+title: "Announcing the Inaugural ISNPS Student Paper Awards"
+description: "ISNPS 2026 announces the inaugural Student Paper Awards, celebrating outstanding student research in nonparametric statistics."
+author:
+  - name: Jeffrey Racine
+    affiliation: Department of Economics & Graduate Program in Statistics (Department of Mathematics and Statistics), McMaster University
+    affiliation-url: https://experts.mcmaster.ca/display/racinej
+date: 04-21-2026
+draft: false
+feed: true
+categories: [Students, Awards]
+image: teaser.svg
+---
+
+## Announcing the Inaugural ISNPS Student Paper Awards
+
+ISNPS 2026 marks a special milestone for our community: for the first time, the symposium is presenting Student Paper Awards. This inaugural recognition celebrates outstanding student research and highlights ISNPS’s commitment to supporting the next generation of scholars in nonparametric statistics and related areas.
+
+The awards were selected by the Student Paper Awards Committee, chaired by Jelena Bradic (Cornell University), with Mladen Kolar (University of Southern California) and Nikolaos Ignatiadis (University of Chicago) serving as additional committee members.
+
+### Awardees
+
+**Winner**
+
+- Alberto Bordino, University of Warwick
+- “Nonparametric inference for ratios of densities via uniformly valid and powerful permutation tests”
+
+**Second Place**
+
+- Zhihan Huang, University of Pennsylvania
+- “Semiparametric KSD test: unifying score and distance-based approaches for goodness-of-fit testing”
+
+**Third Place**
+
+- Ivan Golovko, Bocconi University
+- “Graphical Pitman-Yor Process for Clustering in Bayesian Networks”
+
+We warmly congratulate Alberto, Zhihan, and Ivan on this remarkable achievement. Their papers reflect the originality, depth, and promise of emerging researchers whose work is shaping the future of the field. As the first Student Paper Awards in ISNPS history, this is a moment worth celebrating, and we hope it marks the beginning of a lasting ISNPS tradition.

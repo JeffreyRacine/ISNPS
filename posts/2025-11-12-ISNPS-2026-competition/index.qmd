@@ -8,6 +8,8 @@ author:
 date: 11-12-2025
 draft: false
 feed: true
+categories: [Conference, Students]
+image: teaser.svg
 ---
 
 ## ISNPS 2026 Student Paper Competition — Call for Submissions
@@ -157,4 +159,3 @@ Yes, if the paper is **not accepted** for publication by the ISNPS deadline and 
 
 **What about data/ethics?**  
 Ensure **IRB/ethics approvals**, **de-identify sensitive data**, and follow **data-use agreements**. Include statements on **reproducibility** and **data/code availability** if possible.
-

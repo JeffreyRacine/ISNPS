@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>ISNPS</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,21 +35,20 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4d8b594121dd52e54118692cc759f5c0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-99ae303eae55bd17ed04acc4dcb98adc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -74,131 +76,72 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">About</a></li><li class="breadcrumb-item"><a href="./index.html">ISNPS</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
-    </div>
-  </nav>
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">ISNPS</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./conferences.html"> 
+<span class="menu-text">Conferences</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./people.html"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">Posts</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contacting ISNPS</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://easyconferences.eu/isnps2026/"> 
+<span class="menu-text">ISNPS 2026</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      </a>
-      </div>
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">About</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">ISNPS</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Information</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./conferences.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Conferences</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./people.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">People</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./contact.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Contacting ISNPS</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">News</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./posts.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Posts</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#international-symposia-on-nonparametric-statistics" id="toc-international-symposia-on-nonparametric-statistics" class="nav-link active" data-scroll-target="#international-symposia-on-nonparametric-statistics">International Symposia on Nonparametric Statistics</a>
-  <ul class="collapse">
-  <li><a href="#announcing-the-inaugural-isnps-student-paper-awards-and-winners" id="toc-announcing-the-inaugural-isnps-student-paper-awards-and-winners" class="nav-link" data-scroll-target="#announcing-the-inaugural-isnps-student-paper-awards-and-winners">Announcing the Inaugural ISNPS Student Paper Awards and Winners</a></li>
-  </ul></li>
-  <li><a href="#relationship-to-the-institute-of-mathematical-statistics-ims" id="toc-relationship-to-the-institute-of-mathematical-statistics-ims" class="nav-link" data-scroll-target="#relationship-to-the-institute-of-mathematical-statistics-ims">Relationship to the Institute of Mathematical Statistics (IMS)</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">About</a></li><li class="breadcrumb-item"><a href="./index.html">ISNPS</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">ISNPS</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -210,28 +153,109 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="international-symposia-on-nonparametric-statistics" class="level2">
-<h2 class="anchored" data-anchor-id="international-symposia-on-nonparametric-statistics">International Symposia on Nonparametric Statistics</h2>
-<p>The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of <em>International Symposia on Nonparametric Statistics</em> (ISNPS).</p>
-<p>ISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.</p>
-<p>You might find it interesting to browse the General Assembly slides presented in Braga outlining future ISNPS conferences, a brief history of ISNPS, etc., given by George Michailidis June 26 in Braga, Portugal (<a href="programs/braga_ga_2024.pdf">Link to Slides</a>)</p>
-<p>The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026. Information can be found at <a href="https://easyconferences.eu/isnps2026/">https://easyconferences.eu/isnps2026</a>.</p>
-<section id="announcing-the-inaugural-isnps-student-paper-awards-and-winners" class="level3">
-<h3 class="anchored" data-anchor-id="announcing-the-inaugural-isnps-student-paper-awards-and-winners">Announcing the Inaugural ISNPS Student Paper Awards and Winners</h3>
-<p>ISNPS 2026 is proud to announce its inaugural Student Paper Awards, marking the first time the symposium is recognizing outstanding student papers in this way. The committee was chaired by Jelena Bradic, with Mladen Kolar and Nikolaos Ignatiadis serving as members.</p>
-<p>The Winner is Alberto Bordino for “Nonparametric inference for ratios of densities via uniformly valid and powerful permutation tests”. A very close Second Place goes to Zhihan Huang for “Semiparametric KSD test: unifying score and distance-based approaches for goodness-of-fit testing”, and Third Place goes to Ivan Golovko for “Graphical Pitman-Yor Process for Clustering in Bayesian Networks”. Congratulations to all three awardees on this outstanding accomplishment.</p>
+<div class="home-hero">
+<div class="hero-kicker">
+International research community
+</div>
+<h1>
+International Symposia on Nonparametric Statistics
+</h1>
+<p class="hero-lead">
+ISNPS fosters research, practice, and exchange in nonparametric statistics through its biennial conference series, community activities, and support for emerging scholars.
+</p>
+<div class="hero-actions">
+<p><a class="button button-primary" href="https://easyconferences.eu/isnps2026/">Visit the ISNPS 2026 conference site</a> <a class="button button-secondary" href="posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html">Read the student awards announcement</a></p>
+</div>
+<div class="hero-facts">
+<div class="hero-fact">
+<p><span class="hero-label">Next conference</span></p>
+<p><strong>Thessaloniki, Greece</strong></p>
+<p><em>22-26 June 2026</em></p>
+</div>
+<div class="hero-fact">
+<p><span class="hero-label">Format</span></p>
+<p><strong>Biennial, five-day symposium</strong></p>
+<p><em>Invited, contributed, and poster sessions</em></p>
+</div>
+<div class="hero-fact">
+<p><span class="hero-label">Community</span></p>
+<p><strong>Global and interdisciplinary</strong></p>
+<p><em>Theory, methods, and applications</em></p>
+</div>
+</div>
+</div>
+<div class="feature-grid">
+<section id="isnps-2026" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="isnps-2026">ISNPS 2026</h3>
+<p>The 7th ISNPS Conference will be held in Thessaloniki, Greece, from 22-26 June 2026. The official conference site includes submissions, registration, local information, and the most current deadlines, including any deadline extensions.</p>
+<p><a href="https://easyconferences.eu/isnps2026/" class="card-link">Conference website</a></p>
 </section>
+<section id="student-paper-awards" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="student-paper-awards">Student Paper Awards</h3>
+<p>ISNPS 2026 introduced the inaugural ISNPS Student Paper Awards, recognizing outstanding student research in nonparametric statistics and adjacent areas.</p>
+<p><a href="posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html" class="card-link">Award announcement and winners</a></p>
 </section>
-<section id="relationship-to-the-institute-of-mathematical-statistics-ims" class="level2">
-<h2 class="anchored" data-anchor-id="relationship-to-the-institute-of-mathematical-statistics-ims">Relationship to the Institute of Mathematical Statistics (IMS)</h2>
-<p>ISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS.</p>
-<p>More information on IMS, IMS groups and the IMS group ISNPS can be found at the following website links:</p>
-<ul>
-<li><a href="https://imstat.org/">Link to IMSTAT.ORG</a></li>
-<li><a href="https://imstat.org/ims-groups/">Link to IMS groups at IMSTAT.ORG</a></li>
-<li><a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/">Link to ISNPS at IMSTAT.ORG</a></li>
-</ul>
-<p>The IMS link for the 7th ISNPS Conference can be bound at <a href="https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/">https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/</a>.</p>
+<section id="society-resources" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="society-resources">Society Resources</h3>
+<p>Browse the Braga General Assembly slides for a concise overview of the conference series, future plans, and recent society discussion.</p>
+<p><a href="programs/braga_ga_2024.pdf" class="card-link">Braga General Assembly slides</a></p>
+</section>
+</div>
+<section id="what-isnps-supports" class="level2">
+<h2 class="anchored" data-anchor-id="what-isnps-supports">What ISNPS supports</h2>
+<div class="feature-grid">
+<section id="research-exchange" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="research-exchange">Research exchange</h3>
+<p>ISNPS conferences provide a venue for recent advances and trends in nonparametric statistics, spanning theory, methodology, and applications.</p>
+</section>
+<section id="international-collaboration" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="international-collaboration">International collaboration</h3>
+<p>The symposium series brings together researchers across institutions, countries, and neighboring areas such as machine learning, econometrics, and applied statistics.</p>
+</section>
+<section id="early-career-development" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="early-career-development">Early-career development</h3>
+<p>Student awards, poster sessions, and broad scientific programming help create a welcoming entry point for the next generation of scholars.</p>
+</section>
+</div>
+</section>
+<section id="latest-from-isnps" class="level2">
+<h2 class="anchored" data-anchor-id="latest-from-isnps">Latest from ISNPS</h2>
+<div class="feature-grid">
+<section id="student-paper-competition" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="student-paper-competition">Student Paper Competition</h3>
+<p>Call for submissions, eligibility, review process, and award details for the ISNPS 2026 student paper competition.</p>
+<p><a href="posts/2025-11-12-ISNPS-2026-competition/index.html" class="card-link">Read the post</a></p>
+</section>
+<section id="inaugural-student-awards" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="inaugural-student-awards">Inaugural Student Awards</h3>
+<p>Meet the inaugural award winners recognized by ISNPS 2026 for outstanding student research.</p>
+<p><a href="posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html" class="card-link">Read the post</a></p>
+</section>
+<section id="draft-bylaws" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="draft-bylaws">Draft Bylaws</h3>
+<p>Review the April 2026 draft proposal for the IMS ISNPS Group bylaws.</p>
+<p><a href="posts/2026-04-21-isnps-draft-bylaws/index.html" class="card-link">Read the post</a></p>
+</section>
+</div>
+</section>
+<section id="relationship-to-the-institute-of-mathematical-statistics" class="level2">
+<h2 class="anchored" data-anchor-id="relationship-to-the-institute-of-mathematical-statistics">Relationship to the Institute of Mathematical Statistics</h2>
+<p>ISNPS has been registered as an IMS group since June 2023. Within the IMS framework, the group remains largely self-organized while benefiting from the administrative and professional structure provided by IMS.</p>
+<div class="feature-grid">
+<section id="ims" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="ims">IMS</h3>
+<p><a href="https://imstat.org/" class="card-link">Institute of Mathematical Statistics</a></p>
+</section>
+<section id="ims-groups" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="ims-groups">IMS groups</h3>
+<p><a href="https://imstat.org/ims-groups/" class="card-link">IMS groups overview</a></p>
+</section>
+<section id="isnps-within-ims" class="level3 feature-card">
+<h3 class="anchored" data-anchor-id="isnps-within-ims">ISNPS within IMS</h3>
+<p><a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/" class="card-link">ISNPS group page at IMS</a></p>
+</section>
+</div>
+<p>The IMS calendar entry for the 7th ISNPS Conference is also available at <a href="https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/">imstat.org</a>.</p>
 
 
 </section>
@@ -638,6 +662,19 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>International Symposia on Nonparametric Statistics</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>An IMS group supporting research and community in nonparametric statistics.</p>
+</div>
+  </div>
+</footer>
 
 
 

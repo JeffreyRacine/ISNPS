@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">ISNPS website launch graphic</title>
+  <desc id="desc">Website launch illustration with globe, browser frame, and connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16344d"/>
+      <stop offset="100%" stop-color="#2f6e74"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="216" y="128" width="768" height="428" rx="26" fill="#f7f2e8"/>
+  <rect x="216" y="128" width="768" height="66" rx="26" fill="#dce7e7"/>
+  <circle cx="270" cy="161" r="10" fill="#d4b36a"/>
+  <circle cx="306" cy="161" r="10" fill="#7ca3a7"/>
+  <circle cx="342" cy="161" r="10" fill="#14324b"/>
+  <circle cx="600" cy="365" r="126" fill="#ffffff" opacity="0.74"/>
+  <ellipse cx="600" cy="365" rx="126" ry="48" fill="none" stroke="#14324b" stroke-width="8"/>
+  <ellipse cx="600" cy="365" rx="54" ry="126" fill="none" stroke="#14324b" stroke-width="8"/>
+  <path d="M474 365h252M600 239v252" stroke="#14324b" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#d4b36a">
+    <circle cx="428" cy="286" r="14"/>
+    <circle cx="772" cy="314" r="14"/>
+    <circle cx="739" cy="473" r="14"/>
+    <circle cx="466" cy="464" r="14"/>
+  </g>
+  <g stroke="#2f6e74" stroke-width="5" opacity="0.7">
+    <path d="M428 286l172 79 172-51"/>
+    <path d="M466 464l134-99 139 108"/>
+  </g>
+  <text x="84" y="104" fill="#f8f3ea" font-family="Georgia, 'Times New Roman', serif" font-size="38">ISNPS</text>
+  <text x="84" y="152" fill="#d4b36a" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="3">WEBSITE AND COMMUNITY NEWS</text>
+</svg>

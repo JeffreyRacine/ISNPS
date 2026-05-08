@@ -1,32 +1,142 @@
 ---
 title: "ISNPS"
+page-layout: full
 ---
 
-## International Symposia on Nonparametric Statistics
+::: {.home-hero}
+<div class="hero-kicker">International research community</div>
+<h1>International Symposia on Nonparametric Statistics</h1>
+<p class="hero-lead">ISNPS fosters research, practice, and exchange in nonparametric statistics through its biennial conference series, community activities, and support for emerging scholars.</p>
+<div class="hero-actions">
+  <a class="button button-primary" href="https://easyconferences.eu/isnps2026/">Visit the ISNPS 2026 conference site</a>
+  <a class="button button-secondary" href="posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html">Read the student awards announcement</a>
+</div>
 
-The purpose of ISNPS is to foster the research and application of nonparametric statistics and to promote and disseminate new developments in the field by supporting and facilitating group activities, including the established conference series of *International Symposia on Nonparametric Statistics* (ISNPS).
+::: {.hero-facts}
+::: {.hero-fact}
+[Next conference]{.hero-label}
 
-ISNPS conferences provide a platform for showcasing recent advancements and trends in the field of nonparametric statistics. They are held biennially, span 5 days, and attract a large audience of international researchers with a diverse mix of parallel contributed and invited sessions. These conferences facilitate the exchange of research ideas, promote collaboration among researchers worldwide, and contribute to the further development of the field. The scientific programs comprise plenary talks, special invited talks, invited sessions, contributed talks, and posters encompassing all areas of nonparametric statistics.
+**Thessaloniki, Greece**
 
-You might find it interesting to browse the General Assembly slides presented in Braga outlining future ISNPS conferences, a brief history of ISNPS, etc., given by George Michailidis June 26 in Braga, Portugal ([Link to Slides](programs/braga_ga_2024.pdf))
+*22-26 June 2026*
+:::
 
-The 7th ISNPS Conference will be held in Thessaloniki, Greece, June 22-26, 2026. Information can be found at [https://easyconferences.eu/isnps2026](https://easyconferences.eu/isnps2026/). 
+::: {.hero-fact}
+[Format]{.hero-label}
 
-### Announcing the Inaugural ISNPS Student Paper Awards and Winners
+**Biennial, five-day symposium**
 
-ISNPS 2026 is proud to announce its inaugural Student Paper Awards, marking the first time the symposium is recognizing outstanding student papers in this way. The committee was chaired by Jelena Bradic, with Mladen Kolar and Nikolaos Ignatiadis serving as members.
+*Invited, contributed, and poster sessions*
+:::
 
-The Winner is Alberto Bordino for “Nonparametric inference for ratios of densities via uniformly valid and powerful permutation tests”. A very close Second Place goes to Zhihan Huang for “Semiparametric KSD test: unifying score and distance-based approaches for goodness-of-fit testing”, and Third Place goes to Ivan Golovko for “Graphical Pitman-Yor Process for Clustering in Bayesian Networks”. Congratulations to all three awardees on this outstanding accomplishment.
+::: {.hero-fact}
+[Community]{.hero-label}
 
-## Relationship to the Institute of Mathematical Statistics (IMS)
+**Global and interdisciplinary**
 
-ISNPS is registered as an IMS group dating from June 2023. As an IMS group, ISNPS is largely self-organized within the simple administrative framework provided by IMS.
+*Theory, methods, and applications*
+:::
+:::
+:::
 
-More information on IMS, IMS groups and the IMS group ISNPS can be found at the following website links:
+::: {.feature-grid}
+:::{.feature-card}
+### ISNPS 2026
 
--   <a href="https://imstat.org/">Link to IMSTAT.ORG</a>
--   <a href="https://imstat.org/ims-groups/">Link to IMS groups at IMSTAT.ORG</a>
--   <a href="https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/">Link to ISNPS at IMSTAT.ORG</a>
+The 7th ISNPS Conference will be held in Thessaloniki, Greece, from 22-26 June 2026. The official conference site includes submissions, registration, local information, and the most current deadlines, including any deadline extensions.
 
+[Conference website](https://easyconferences.eu/isnps2026/){.card-link}
+:::
 
-The IMS link for the 7th ISNPS Conference can be bound at [https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/](https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/).
+:::{.feature-card}
+### Student Paper Awards
+
+ISNPS 2026 introduced the inaugural ISNPS Student Paper Awards, recognizing outstanding student research in nonparametric statistics and adjacent areas.
+
+[Award announcement and winners](posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html){.card-link}
+:::
+
+:::{.feature-card}
+### Society Resources
+
+Browse the Braga General Assembly slides for a concise overview of the conference series, future plans, and recent society discussion.
+
+[Braga General Assembly slides](programs/braga_ga_2024.pdf){.card-link}
+:::
+:::
+
+## What ISNPS supports
+
+::: {.feature-grid}
+:::{.feature-card}
+### Research exchange
+
+ISNPS conferences provide a venue for recent advances and trends in nonparametric statistics, spanning theory, methodology, and applications.
+:::
+
+:::{.feature-card}
+### International collaboration
+
+The symposium series brings together researchers across institutions, countries, and neighboring areas such as machine learning, econometrics, and applied statistics.
+:::
+
+:::{.feature-card}
+### Early-career development
+
+Student awards, poster sessions, and broad scientific programming help create a welcoming entry point for the next generation of scholars.
+:::
+:::
+
+## Latest from ISNPS
+
+::: {.feature-grid}
+:::{.feature-card}
+### Student Paper Competition
+
+Call for submissions, eligibility, review process, and award details for the ISNPS 2026 student paper competition.
+
+[Read the post](posts/2025-11-12-ISNPS-2026-competition/index.html){.card-link}
+:::
+
+:::{.feature-card}
+### Inaugural Student Awards
+
+Meet the inaugural award winners recognized by ISNPS 2026 for outstanding student research.
+
+[Read the post](posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html){.card-link}
+:::
+
+:::{.feature-card}
+### Draft Bylaws
+
+Review the April 2026 draft proposal for the IMS ISNPS Group bylaws.
+
+[Read the post](posts/2026-04-21-isnps-draft-bylaws/index.html){.card-link}
+:::
+:::
+
+## Relationship to the Institute of Mathematical Statistics
+
+ISNPS has been registered as an IMS group since June 2023. Within the IMS framework, the group remains largely self-organized while benefiting from the administrative and professional structure provided by IMS.
+
+::: {.feature-grid}
+:::{.feature-card}
+### IMS
+
+[Institute of Mathematical Statistics](https://imstat.org/){.card-link}
+:::
+
+:::{.feature-card}
+### IMS groups
+
+[IMS groups overview](https://imstat.org/ims-groups/){.card-link}
+:::
+
+:::{.feature-card}
+### ISNPS within IMS
+
+[ISNPS group page at IMS](https://imstat.org/ims-groups/international-symposia-on-nonparametric-statistics-isnps/){.card-link}
+:::
+:::
+
+The IMS calendar entry for the 7th ISNPS Conference is also available at [imstat.org](https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/).
