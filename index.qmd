@@ -59,9 +59,9 @@ ISNPS 2026 introduced the inaugural ISNPS Student Paper Awards, recognizing outs
 :::{.feature-card}
 ### Society Resources
 
-Browse the Braga General Assembly slides for a concise overview of the conference series, future plans, and recent society discussion.
+Browse the ISNPS 2024 Braga General Assembly Slides for a concise overview of the conference series, future plans, and recent society discussion.
 
-[Braga General Assembly slides](programs/braga_ga_2024.pdf){.card-link}
+[ISNPS 2024 Braga General Assembly Slides](programs/braga_ga_2024.pdf){.card-link}
 :::
 :::
 
