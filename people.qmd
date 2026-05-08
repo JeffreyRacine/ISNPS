@@ -48,8 +48,8 @@ The steering committee supports conference continuity, scientific programming, g
 
 ## Past Members
 
-- Ricardo Cao
-- Michele La Rocca
-- Soumendra Lahiri
-- Regina Liu
-- Dimitris Politis
+- [Ricardo Cao](https://dm.udc.es/modes/es/node/46)
+- [Michele La Rocca](https://docenti.unisa.it/michele.larocca)
+- [Soumendra Lahiri](https://artsci.washu.edu/faculty-staff/soumendra-lahiri)
+- [Regina Liu](https://stat.rutgers.edu/people-pages/faculty/people/391-regina-y-liu)
+- [Dimitris Politis](https://mathweb.ucsd.edu/~politis/)
