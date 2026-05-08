@@ -15,3 +15,7 @@ Los Angeles, CA
 
 [gmichail@ucla.edu](mailto:gmichail@ucla.edu)
 :::
+
+::: {.maintenance-note}
+For website maintenance, link corrections, or technical issues, you may also contact **Jeffrey S. Racine**, website maintainer, at [racinej@mcmaster.ca](mailto:racinej@mcmaster.ca). Public website issues may be reported at [github.com/JeffreyRacine/ISNPS/issues](https://github.com/JeffreyRacine/ISNPS/issues).
+:::
