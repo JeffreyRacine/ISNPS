@@ -53,7 +53,7 @@ The 7th ISNPS Conference will be held in Thessaloniki, Greece, from 22-26 June 2
 
 ISNPS 2026 introduced the inaugural ISNPS Student Paper Awards, recognizing outstanding student research in nonparametric statistics and adjacent areas.
 
-[Award announcement and winners](posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html){.card-link}
+[2026 Award announcement and winners](posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html){.card-link}
 :::
 
 :::{.feature-card}
