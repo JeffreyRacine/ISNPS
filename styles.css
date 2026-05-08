@@ -1,20 +1,21 @@
 :root {
-  --isnps-navy: #5a2436;
-  --isnps-teal: #8a5a3b;
-  --isnps-gold: #b28b48;
-  --isnps-sand: #f4ede4;
-  --isnps-stone: #786457;
-  --isnps-ink: #2f2623;
-  --isnps-card: #fffdf9;
-  --isnps-border: rgba(90, 36, 54, 0.12);
-  --isnps-shadow: 0 18px 40px rgba(90, 36, 54, 0.08);
+  --isnps-navy: #1f4a3d;
+  --isnps-teal: #58735c;
+  --isnps-gold: #a9833d;
+  --isnps-sand: #efe6d6;
+  --isnps-stone: #6e6558;
+  --isnps-ink: #2b2923;
+  --isnps-card: #fffaf0;
+  --isnps-border: rgba(31, 74, 61, 0.12);
+  --isnps-shadow: 0 18px 40px rgba(31, 74, 61, 0.08);
   --isnps-radius: 24px;
 }
 
 body {
   background:
-    radial-gradient(circle at top right, rgba(138, 90, 59, 0.12), transparent 24rem),
-    linear-gradient(180deg, #fcfaf6 0%, var(--isnps-sand) 100%);
+    radial-gradient(circle at top right, rgba(88, 115, 92, 0.14), transparent 24rem),
+    radial-gradient(circle at bottom left, rgba(169, 131, 61, 0.10), transparent 22rem),
+    linear-gradient(180deg, #f8f2e6 0%, var(--isnps-sand) 100%);
   color: var(--isnps-ink);
   font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 }
@@ -30,8 +31,8 @@ h3,
 
 .navbar {
   backdrop-filter: blur(10px);
-  background: rgba(255, 252, 246, 0.92) !important;
-  border-bottom: 1px solid rgba(90, 36, 54, 0.08);
+  background: rgba(251, 246, 237, 0.94) !important;
+  border-bottom: 1px solid rgba(31, 74, 61, 0.08);
 }
 
 .navbar-brand,
@@ -55,10 +56,10 @@ main.content {
   padding: 3rem;
   border-radius: 2rem;
   background:
-    radial-gradient(circle at top left, rgba(182, 144, 67, 0.18), transparent 18rem),
-    linear-gradient(135deg, rgba(90, 36, 54, 0.98), rgba(122, 88, 67, 0.92));
+    radial-gradient(circle at top left, rgba(169, 131, 61, 0.22), transparent 18rem),
+    linear-gradient(135deg, rgba(31, 74, 61, 0.98), rgba(88, 115, 92, 0.94));
   color: #fdfaf3;
-  box-shadow: 0 28px 60px rgba(90, 36, 54, 0.18);
+  box-shadow: 0 28px 60px rgba(31, 74, 61, 0.18);
 }
 
 .home-hero h1,
@@ -113,7 +114,7 @@ main.content {
 }
 
 .button-primary {
-  background: #ffffff;
+  background: #fffaf0;
   color: var(--isnps-navy) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
 }
@@ -206,8 +207,8 @@ main.content {
 .conference-spotlight {
   margin: 1rem 0 2rem;
   background:
-    radial-gradient(circle at top right, rgba(182, 144, 67, 0.16), transparent 14rem),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(252, 246, 237, 0.96));
+    radial-gradient(circle at top right, rgba(169, 131, 61, 0.18), transparent 14rem),
+    linear-gradient(180deg, rgba(255, 253, 247, 0.96), rgba(244, 236, 221, 0.96));
 }
 
 .conference-grid {
@@ -236,7 +237,7 @@ main.content {
 .quarto-grid-item .card-img {
   width: 100%;
   object-fit: cover;
-  background: linear-gradient(135deg, rgba(90, 36, 54, 0.1), rgba(138, 90, 59, 0.1));
+  background: linear-gradient(135deg, rgba(31, 74, 61, 0.12), rgba(169, 131, 61, 0.10));
 }
 
 .quarto-grid-item .card-title,
@@ -262,8 +263,8 @@ main.content {
 }
 
 .page-footer {
-  border-top: 1px solid rgba(90, 36, 54, 0.08);
-  background: rgba(255, 252, 246, 0.78);
+  border-top: 1px solid rgba(31, 74, 61, 0.08);
+  background: rgba(249, 243, 231, 0.82);
 }
 
 a {
