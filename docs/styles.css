@@ -1,19 +1,19 @@
 :root {
-  --isnps-navy: #14324b;
-  --isnps-teal: #2f6e74;
-  --isnps-gold: #b69043;
-  --isnps-sand: #f5efe4;
-  --isnps-stone: #6d6254;
-  --isnps-ink: #1f2a33;
+  --isnps-navy: #5a2436;
+  --isnps-teal: #8a5a3b;
+  --isnps-gold: #b28b48;
+  --isnps-sand: #f4ede4;
+  --isnps-stone: #786457;
+  --isnps-ink: #2f2623;
   --isnps-card: #fffdf9;
-  --isnps-border: rgba(20, 50, 75, 0.12);
-  --isnps-shadow: 0 18px 40px rgba(20, 50, 75, 0.08);
+  --isnps-border: rgba(90, 36, 54, 0.12);
+  --isnps-shadow: 0 18px 40px rgba(90, 36, 54, 0.08);
   --isnps-radius: 24px;
 }
 
 body {
   background:
-    radial-gradient(circle at top right, rgba(47, 110, 116, 0.12), transparent 24rem),
+    radial-gradient(circle at top right, rgba(138, 90, 59, 0.12), transparent 24rem),
     linear-gradient(180deg, #fcfaf6 0%, var(--isnps-sand) 100%);
   color: var(--isnps-ink);
   font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
@@ -31,7 +31,7 @@ h3,
 .navbar {
   backdrop-filter: blur(10px);
   background: rgba(255, 252, 246, 0.92) !important;
-  border-bottom: 1px solid rgba(20, 50, 75, 0.08);
+  border-bottom: 1px solid rgba(90, 36, 54, 0.08);
 }
 
 .navbar-brand,
@@ -56,9 +56,9 @@ main.content {
   border-radius: 2rem;
   background:
     radial-gradient(circle at top left, rgba(182, 144, 67, 0.18), transparent 18rem),
-    linear-gradient(135deg, rgba(20, 50, 75, 0.98), rgba(47, 110, 116, 0.92));
+    linear-gradient(135deg, rgba(90, 36, 54, 0.98), rgba(122, 88, 67, 0.92));
   color: #fdfaf3;
-  box-shadow: 0 28px 60px rgba(20, 50, 75, 0.18);
+  box-shadow: 0 28px 60px rgba(90, 36, 54, 0.18);
 }
 
 .home-hero h1,
@@ -207,7 +207,7 @@ main.content {
   margin: 1rem 0 2rem;
   background:
     radial-gradient(circle at top right, rgba(182, 144, 67, 0.16), transparent 14rem),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(255, 250, 241, 0.96));
+    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(252, 246, 237, 0.96));
 }
 
 .conference-grid {
@@ -236,7 +236,7 @@ main.content {
 .quarto-grid-item .card-img {
   width: 100%;
   object-fit: cover;
-  background: linear-gradient(135deg, rgba(20, 50, 75, 0.1), rgba(47, 110, 116, 0.1));
+  background: linear-gradient(135deg, rgba(90, 36, 54, 0.1), rgba(138, 90, 59, 0.1));
 }
 
 .quarto-grid-item .card-title,
@@ -262,7 +262,7 @@ main.content {
 }
 
 .page-footer {
-  border-top: 1px solid rgba(20, 50, 75, 0.08);
+  border-top: 1px solid rgba(90, 36, 54, 0.08);
   background: rgba(255, 252, 246, 0.78);
 }
 
