@@ -4,7 +4,7 @@ description: "The isnps.org website is now available online"
 author:
   - name: Jeffrey Racine
     affiliation: Department of Economics & Graduate Program in Statistics (Department of Mathematics and Statistics), McMaster University
-    affiliation-url: https://experts.mcmaster.ca/display/racinej
+    affiliation-url: https://experts.mcmaster.ca/people/racinej
 date: 08-10-2023
 draft: false
 feed: true

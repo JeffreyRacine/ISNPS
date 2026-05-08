@@ -4,7 +4,7 @@ description: "ISNPS 2026 Student Paper Competition — Call for Submissions"
 author:
   - name: Jeffrey Racine
     affiliation: Department of Economics & Graduate Program in Statistics (Department of Mathematics and Statistics), McMaster University
-    affiliation-url: https://experts.mcmaster.ca/display/racinej
+    affiliation-url: https://experts.mcmaster.ca/people/racinej
 date: 11-12-2025
 draft: false
 feed: true

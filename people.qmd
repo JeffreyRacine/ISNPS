@@ -35,7 +35,7 @@ The steering committee supports conference continuity, scientific programming, g
 :::
 
 ::: {.column width="50%"}
-- [Antonio Lijoi](https://www.unibocconi.it/it/faculty/antonio-lijoi)
+- [Antonio Lijoi](https://www.unibocconi.it/en/faculty/antonio-lijoi)
 - [George Michailidis](https://georgemichailidis.github.io/)
 - [Dan Nordman](https://www.stat.iastate.edu/people/dan-nordman)
 - [Ursula U. Müller](https://uumueller.github.io/)
@@ -49,7 +49,7 @@ The steering committee supports conference continuity, scientific programming, g
 ## Past Members
 
 - [Ricardo Cao](https://dm.udc.es/modes/es/node/46)
-- [Michele La Rocca](https://docenti.unisa.it/michele.larocca)
+- [Michele La Rocca](https://docenti.unisa.it/001580/home)
 - [Soumendra Lahiri](https://artsci.washu.edu/faculty-staff/soumendra-lahiri)
 - [Regina Liu](https://stat.rutgers.edu/people-pages/faculty/people/391-regina-y-liu)
-- [Dimitris Politis](https://mathweb.ucsd.edu/~politis/)
+- [Dimitris Politis](https://math.ucsd.edu/people/profiles/dimitris-politis/)
