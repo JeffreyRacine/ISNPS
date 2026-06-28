@@ -5,22 +5,45 @@ page-layout: full
 
 The ISNPS conference series is the society's central gathering point: a biennial meeting built around plenary talks, invited sessions, contributed talks, posters, and broad exchange across nonparametric statistics.
 
-## Next meeting
+## Upcoming meetings
 
 ::: {.conference-spotlight}
-### 7th ISNPS Conference
+### 8th ISNPS Conference
 
-**Thessaloniki, Greece**  
-**22-26 June 2026**
+**Bocconi University, Milan, Italy**\
+**12-16 June 2028**
 
-The official conference site contains the most current submission, registration, local-information, and schedule updates.
+The 2028 meeting was announced during the ISNPS 2026 General Assembly. Antonio Lijoi ([antonio.lijoi@unibocconi.it](mailto:antonio.lijoi@unibocconi.it)) is the ISNPS contact for Milan 2028.
 
-[Visit the conference website](https://easyconferences.eu/isnps2026/){.button .button-primary}
+[Contact Antonio Lijoi](mailto:antonio.lijoi@unibocconi.it){.button .button-primary}
+:::
+
+::: {.conference-spotlight}
+### 9th ISNPS Conference
+
+**Palais des Arts et de la Culture, Tangier, Morocco**\
+**24-28 May 2030**
+
+The 2030 meeting was also announced during the ISNPS 2026 General Assembly. Sophie Dabo ([sophie.dabo@univ-lille.fr](mailto:sophie.dabo@univ-lille.fr)) is the ISNPS contact for Tangier 2030.
+
+[Contact Sophie Dabo](mailto:sophie.dabo@univ-lille.fr){.button .button-primary}
 :::
 
 ## Conference archive
 
 ::: {.conference-grid}
+:::{.conference-card}
+### 7th ISNPS
+
+**Thessaloniki, Greece**\
+22-26 June 2026
+
+[Program](programs/thessaloniki_program_2026.pdf)\
+[Abstracts](programs/thessaloniki_abstracts_2026.pdf)\
+[General Assembly slides](programs/thessaloniki_ga_2026.pdf)\
+[Conference website](https://easyconferences.eu/isnps2026/)
+:::
+
 :::{.conference-card}
 ### 6th ISNPS
 
@@ -28,7 +51,8 @@ The official conference site contains the most current submission, registration,
 25-29 June 2024
 
 [Program](programs/braga_program_2024.pdf)  
-[Abstracts](programs/braga_abstracts_2024.pdf)
+[Abstracts](programs/braga_abstracts_2024.pdf)\
+[General Assembly slides](programs/braga_ga_2024.pdf)
 :::
 
 :::{.conference-card}
@@ -98,4 +122,4 @@ Held under the auspices of the *International Conference on Current Advances and
 :::
 :::
 
-Conferences 1-4 were held under the auspices of the *International Society for Nonparametric Statistics*. The 2024 Braga meeting was held under the auspices of *International Symposia on Nonparametric Statistics*.
+Conferences 1-4 were held under the auspices of the *International Society for Nonparametric Statistics*. The 2024 Braga and 2026 Thessaloniki meetings were held under the auspices of *International Symposia on Nonparametric Statistics*.

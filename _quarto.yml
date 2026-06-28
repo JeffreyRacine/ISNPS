@@ -15,8 +15,8 @@ website:
       - posts.qmd
       - contact.qmd
     right:
-      - text: "ISNPS 2026"
-        href: https://easyconferences.eu/isnps2026/
+      - text: "Conference archive"
+        href: conferences.qmd
   page-footer:
     left: "International Symposia on Nonparametric Statistics"
     right: "An IMS group supporting research and community in nonparametric statistics."

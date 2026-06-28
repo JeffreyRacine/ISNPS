@@ -8,7 +8,7 @@ page-layout: full
 <h1>International Symposia on Nonparametric Statistics</h1>
 <p class="hero-lead">ISNPS fosters research, practice, and exchange in nonparametric statistics through its biennial conference series, community activities, and support for emerging scholars.</p>
 <div class="hero-actions">
-  <a class="button button-primary" href="https://easyconferences.eu/isnps2026/">Visit the ISNPS 2026 conference site</a>
+  <a class="button button-primary" href="conferences.html">View conference archive</a>
   <a class="button button-secondary" href="posts/2026-04-21-inaugural-isnps-student-paper-awards/index.html">Read the student awards announcement</a>
 </div>
 
@@ -16,17 +16,17 @@ page-layout: full
 ::: {.hero-fact}
 [Next conference]{.hero-label}
 
-**Thessaloniki, Greece**
+**Milan, Italy**
 
-*22-26 June 2026*
+*12-16 June 2028*
 :::
 
 ::: {.hero-fact}
-[Format]{.hero-label}
+[Following meeting]{.hero-label}
 
-**Biennial, five-day symposium**
+**Tangier, Morocco**
 
-*Invited, contributed, and poster sessions*
+*24-28 May 2030*
 :::
 
 ::: {.hero-fact}
@@ -41,11 +41,19 @@ page-layout: full
 
 ::: {.feature-grid}
 :::{.feature-card}
-### ISNPS 2026
+### Upcoming meetings
 
-The 7th ISNPS Conference will be held in Thessaloniki, Greece, from 22-26 June 2026. The official conference site includes submissions, registration, local information, and the most current deadlines, including any deadline extensions.
+ISNPS-8 will be held at Bocconi University in Milan, Italy, from 12-16 June 2028. ISNPS-9 is planned for Tangier, Morocco, from 24-28 May 2030.
 
-[Conference website](https://easyconferences.eu/isnps2026/){.card-link}
+[Meeting details](conferences.html#upcoming-meetings){.card-link}
+:::
+
+:::{.feature-card}
+### ISNPS 2026 archive
+
+The 7th ISNPS Conference concluded in Thessaloniki, Greece, after meeting from 22-26 June 2026. Program materials, abstracts, and General Assembly slides are now preserved in the conference archive.
+
+[Conference archive](conferences.html#conference-archive){.card-link}
 :::
 
 :::{.feature-card}
@@ -59,9 +67,10 @@ ISNPS 2026 introduced the inaugural ISNPS Student Paper Awards, recognizing outs
 :::{.feature-card}
 ### Society Resources
 
-Browse the ISNPS 2024 Braga General Assembly Slides for a concise overview of the conference series, future plans, and recent society discussion.
+Browse recent General Assembly slides for concise updates on the conference series, future plans, and society discussion.
 
-[ISNPS 2024 Braga General Assembly Slides](programs/braga_ga_2024.pdf){.card-link}
+[ISNPS 2024 Braga General Assembly Slides](programs/braga_ga_2024.pdf){.card-link}\
+[ISNPS 2026 Thessaloniki General Assembly Slides](programs/thessaloniki_ga_2026.pdf){.card-link}
 :::
 :::
 
@@ -139,4 +148,4 @@ ISNPS has been registered as an IMS group since June 2023. Within the IMS framew
 :::
 :::
 
-The IMS calendar entry for the 7th ISNPS Conference is also available at [imstat.org](https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/).
+The IMS calendar entry for the 7th ISNPS Conference remains available at [imstat.org](https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2026/).
